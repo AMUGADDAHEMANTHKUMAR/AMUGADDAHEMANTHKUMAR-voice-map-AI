@@ -4,7 +4,7 @@
 
 **Voice Map Muse** is a voice-powered AI web application built using [Lovable AI](https://www.lovable.app) and [Supabase](https://supabase.com/) for authentication and backend services. This project demonstrates how natural language processing, AI-driven storytelling, and geographic context can work together to deliver immersive, interactive user experiences.
 
-> [🚀 Live Preview:](https://preview--voice-map-muse.lovable.app/)
+> [🚀Live Preview](https://preview--voice-map-muse.lovable.app/)
 
 ---
 
