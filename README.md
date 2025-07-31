@@ -37,11 +37,10 @@ Authentication is handled via **Supabase Auth**, enabling secure login and signu
 ---
 
 ## 📸 Screenshots
-
-> Add visuals to make the README more engaging:  
-> ![Login Screen](screenshots/login_screen.png)  
-> ![Map Interaction](screenshots/map_ui.png)  
-> ![Voice Input](screenshots/voice_input.png)
+  
+> ![Login Screen](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%20(1945).png)  
+> ![Map Interaction](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%20(1958).png)  
+> ![Voice Input](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%202025-07-30%20220514.png)
 
 ---
 
