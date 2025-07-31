@@ -38,8 +38,10 @@ Authentication is handled via **Supabase Auth**, enabling secure login and signu
 
 ## 📸 Screenshots
   
-> ![Login Screen](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%20(1945).png)  
-> ![Map Interaction](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%20(1958).png)  
+> ![Login Screen](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%20(1945).png)
+
+> ![Map Interaction](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%20(1958).png)
+
 > ![Voice Input](https://github.com/AMUGADDAHEMANTHKUMAR/AMUGADDAHEMANTHKUMAR-voice-map-AI/blob/main/Screenshot%202025-07-30%20220514.png)
 
 ---
