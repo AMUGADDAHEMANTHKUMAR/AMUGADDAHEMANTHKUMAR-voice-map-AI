@@ -1,5 +1,3 @@
-# AMUGADDAHEMANTHKUMAR-voice-map-AI
-
 # 🎤 Voice Map Muse
 
 **Voice Map Muse** is a voice-powered AI web application built using [Lovable AI](https://www.lovable.app) and [Supabase](https://supabase.com/) for authentication and backend services. This project demonstrates how natural language processing, AI-driven storytelling, and geographic context can work together to deliver immersive, interactive user experiences.
@@ -96,5 +94,12 @@ MIT License – Feel free to remix, extend, and build on this idea.
 - [Lovable AI](https://www.lovable.app) for the incredible visual AI builder.
 - [Supabase](https://supabase.com) for seamless backend services.
 - All open-source libraries and APIs that make modern web experiences possible.
+
+---
+
+## 📬 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or [Email](https://mail.google.com/mail/?view=cm&fs=1&to=hemanthkumar7783@gmail.com&su=Hello&body=Hi%20Hemanth,%20I%20wanted%20to...)
+ if you'd like to collaborate or have questions.
 
 ---
